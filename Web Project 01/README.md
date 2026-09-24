@@ -61,22 +61,6 @@ Or use **Live Server** in VS Code.
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-```
-screenshots/
-│
-├── home.png
-├── services.png
-└── contact.png
-```
-
----
-
 ## 🎯 Learning Objectives
 
 This project helped me practice:
