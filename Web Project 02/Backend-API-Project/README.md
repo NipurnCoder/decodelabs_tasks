@@ -52,7 +52,7 @@ Backend-API-Project/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Backend-API-Project.git
+git clone https://github.com/NipurnCoder/Backend-API-Project.git
 ```
 
 ### Move to Project Directory
