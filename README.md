@@ -9,9 +9,9 @@ This repository contains the tasks completed as part of the **Decodelabs Interns
 ```
 decodelabs_tasks/
 │
-├── Task-1/
-├── Task-2/
-├── Task-3/
+├── Task-1/ Responsive Landing Page
+├── Task-2/ Student Management Rest API
+├── Task-3/ Backend DataBase Project [CRUD]
 └── README.md
 ```
 
