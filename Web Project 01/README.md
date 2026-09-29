@@ -46,13 +46,13 @@ Full-Stack-Project-1/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/NipurnCoder/decodelabs-_tasks.git
+git clone https://github.com/NipurnCoder/decodelabs_tasks.git
 ```
 
 2. Open the project folder
 
 ```bash
-cd your-repository
+cd NipurnCoder/decodelabs_tasks
 ```
 
 3. Open `index.html` in your browser.
