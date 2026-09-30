@@ -35,7 +35,6 @@ Full-Stack-Project-1/
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
 └── README.md
 ```
 
